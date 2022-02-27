@@ -1,0 +1,20 @@
+{
+  "name": "basic_rest_api",
+  "version": "1.0.0",
+  "description": "REST API with basic endpoint.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "express"
+  ],
+  "author": "Zain Alwan Wima Irfani",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
